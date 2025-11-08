@@ -4,6 +4,15 @@ PROJEK_BASED_LEARNING
 
  CONTOH PROGRAM SHELL SCRIPT
 
+ https://drive.google.com/file/d/14ITPXUUSGrK96L2R9kpJ2ikC3UL33tDu/view?usp=sharing
+ :TOUCH FILE untuk membuat file.1..20
+ 
+
+ https://drive.google.com/file/d/1Xcfv39F1ZpsP5oi6RCVCBsIUypICzEft/view?usp=sharing:PERINTAH  echo "ini adalah dokumen contoh>"file1.txt
+ echo "data gambar">file.jpg
+ 
+ echo "log sistem contoh"file.log
+
  https://drive.google.com/file/d/1VB4f6Y2ix9C8T8BkXE8TrEtl8oIPE4w8/view?usp=sharing
  :PERINTAH:   mkdir projek_based_learning
 
